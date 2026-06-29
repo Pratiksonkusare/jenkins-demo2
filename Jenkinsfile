@@ -3,11 +3,11 @@ pipeline
   agent any
   stages
   {
-    stage('Main-branch')
+    stage('feature1-branch')
     {
       steps
       {
-        echo 'Hello from Main Branch'
+        echo 'Hello from Feature1 Branch'
       }
     }
   }

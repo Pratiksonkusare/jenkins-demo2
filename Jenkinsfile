@@ -3,11 +3,11 @@ pipeline
   agent any
   stages
   {
-    stage('Main-branch')
+    stage('Frontend-branch')
     {
       steps
       {
-        echo 'Hello from Main Branch'
+        echo 'Hello from Frontend Branch'
       }
     }
   }

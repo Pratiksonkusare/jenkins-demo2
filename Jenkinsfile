@@ -7,7 +7,7 @@ pipeline
     {
       steps
       {
-        echo 'Hello from Feature1 Branch'
+        echo 'Hello from Feature1 Branch....updated'
       }
     }
   }
